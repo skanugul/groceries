@@ -1,1 +1,2 @@
-system.out.println("SSSSSSSSSSSSS");
+system.out.println("first github project");
+system.out.println("hello world");
